@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '31733'
     url: http://www.gutenberg.org/2009/agents/31733
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26009#Adventures-of-a-Young-Naturalist
 gutenberg_issued: '2008-07-08'
 gutenberg_type: Text
 identifiers:
