@@ -1,0 +1,36 @@
+_repo: Adventures-of-a-Young-Naturalist_26009
+_version: 0.1.0
+alternative_title: Aventures d'un jeune naturaliste. English
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Biart, Lucien
+    aliases:
+    - Biart, Lucian
+    - Biart, Luciano
+    birthdate: 1828
+    deathdate: 1897
+    gutenberg_agent_id: '7750'
+    url: http://www.gutenberg.org/2009/agents/7750
+  editor:
+    agent_name: Gillmore, Parker
+    alias: Gillmore, P. (Parker)
+    gutenberg_agent_id: '31733'
+    url: http://www.gutenberg.org/2009/agents/31733
+description: ''
+gutenberg_issued: '2008-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26009'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mexico -- Description and travel'
+- !lcsh 'Natural history -- Mexico'
+- !lcc 'QH'
+title: Adventures of a Young Naturalist
+url: http://www.gutenberg.org/ebooks/26009
